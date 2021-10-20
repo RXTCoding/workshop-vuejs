@@ -1,15 +1,15 @@
 ---
 name: Homework Assignment
 about: Use this template to submit the homework
-title: "[HW] <NAME>"
+title: "[HW] <Rashida Toliver>"
 labels: homework
 assignees: SonicDMG, RyanWelford
 
 ---
 
-**Name:** REPLACE_ME
-**Email:** REPLACE_ME
-**Linkedin Profile:** REPLACE_ME
+**Name:** Rashida Toliver
+**Email:** Rashidat2011@gmail.com
+**Linkedin Profile:** https://www.linkedin.com/in/rashida-toliver-797330177/
 
 Attach the homework screenshot below:
 -----------------------------------------
